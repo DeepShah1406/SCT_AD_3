@@ -35,7 +35,7 @@ Contributions are welcome! If you want to contribute to this project, please fol
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/DeepShah1406/SCT_AD_3/blob/master/LICENSE) file for details.
 
 ## Acknowledgements
 

@@ -11,7 +11,7 @@ A minimalist Flutter application designed to provide a functional and visually a
 
 ## Screenshots
 
-<img src="" width="30%" alt="" /> <img src="" width="30%" alt="" /> <img src="" width="30%" alt="" />
+<img src="assets/Stopwatch_Application_Screenshot.png" width="30%" alt="Stopwatch Application" />
 
 ## Dependencies
 

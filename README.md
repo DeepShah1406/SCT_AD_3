@@ -1,4 +1,4 @@
-# Stopwatch App
+# ***Stopwatch App***
 
 A minimalist Flutter application designed to provide a functional and visually appealing stopwatch. This app allows you to start, pause, and reset a stopwatch with a simple and clean user interface.
 

@@ -44,7 +44,7 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 
 ## Contact
 
-- E-Mail ID : [Deep Shah](shahdeep1406@gmail.com)
+- E-Mail ID : [Deep Shah](mailto:shahdeep1406@gmail.com)
 - GitHub : [Deep Shah](https://github.com/DeepShah1406)
 
 ## Getting Started
